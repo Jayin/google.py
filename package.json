@@ -8,6 +8,8 @@
   "description": "Search available fast google ip for blocked users.",
   "author": "hit9 <hit9@icloud.com>",
   "dependencies": {
+    "block-queue": "0.0.2",
+    "knuth-shuffle": "1.0.1",
     "open": "0.0.5",
     "request": "2.53.0"
   },
